@@ -77,7 +77,7 @@ Model Evaluation
 Random Forest Model
      ↓
 Streamlit Application
-
+```
 
 ## 🖥️ Application Screenshot
 
