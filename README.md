@@ -77,3 +77,8 @@ Model Evaluation
 Random Forest Model
      ↓
 Streamlit Application
+
+
+## 🖥️ Application Screenshot
+
+![Electricity Theft Detection Streamlit App](streamlit_app.png)
